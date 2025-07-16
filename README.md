@@ -1,4 +1,4 @@
-# :zap: Stranger Things Spoiler Blocker - Chrome Extension <img src="icon-stark.png" alt="🐺" width="64"/>
+# :zap: Stranger Things Spoiler Blocker - Chrome Extension <img src="icon-stark.png" alt="🐺" width="40"/>
 
 This Chrome extension helps protect you from **Stranger Things** spoilers lurking across the internet – including text reveals, plot twists, and key character deaths.  
 
