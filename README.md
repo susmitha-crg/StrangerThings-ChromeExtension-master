@@ -32,7 +32,7 @@ This was built by a fan and developer who wanted to combine two of the best thin
 5. Enable **Developer Mode** (top right toggle)
 6. Click on `Load Unpacked`
 7. Select the unzipped project folder
-8. You’ll see an icon <img src="icon.png" alt="🧇" width="32"/> appear in the Chrome toolbar
+8. You’ll see an icon <img src="icon-stark.png" alt="🧇" width="32"/> appear in the Chrome toolbar
 9. Browse safely – even Reddit can't spoil you now!
 
 ---
