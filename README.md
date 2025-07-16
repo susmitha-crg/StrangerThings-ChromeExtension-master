@@ -14,12 +14,11 @@ This was built by a fan and developer who wanted to combine two of the best thin
 
 # Features
 
-- ✅ **Spoiler Detection**: Detects and hides spoiler phrases like `Vecna`, `Eddie dies`, `Max coma`, `Season 4 ending`, and more.
+- ✅ **Spoiler Detection**: Detects and hides spoiler phrases like `The upcoming final season`, `ending explained`, `plot twist`, `shocking scene`, and more.
 - 🔒 **Text Masking**: Hides spoiler text and replaces it with blacked-out content or warning message.
 - 🖼️ **Visual Protection** _(optional)_ – Can be extended to blur spoiler-related images.
 - 🧠 **Custom Keyword List**: Keywords are customizable in the source code.
 - 👶 **Beginner-Friendly**: No expert Chrome dev knowledge needed to understand or modify it.
-- 💻 **Open Source**: Feel free to fork and enhance.
 
 ---
 
@@ -42,9 +41,7 @@ This was built by a fan and developer who wanted to combine two of the best thin
 Built for:
 - 🧲 Avoiding *Stranger Things* spoilers while rewatching or catching up
 - 🧪 Learning how to build Chrome extensions
-- 🧠 Gaining control over internet chaos
-
-It’s a small, simple tool — but a life-saver if you’re spoiler-sensitive. 🛡️
+- 🧠 To solve the problem of spoilers as a Software Developer
 
 ---
 
